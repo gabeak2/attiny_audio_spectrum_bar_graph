@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name attiny_audio_spectrum_bar_graph)(type Legacy)(uri ${KIPRJMOD}/attiny_audio_spectrum_bar_graph.lib)(options "")(descr ""))
+  (lib (name attiny_audio_spectrum_bar_graph-rescue)(type Legacy)(uri ${KIPRJMOD}/attiny_audio_spectrum_bar_graph-rescue.lib)(options "")(descr ""))
+)
